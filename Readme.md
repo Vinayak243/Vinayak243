@@ -1,32 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sudeep%20Naik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,50:4F46E5,100:7C3AED&text=Vinayak%20Naik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Software+Engineering+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Manual+Testing+Enthusiast;Spring+Boot+Developer;Software+Engineering+Learner;Building+Scalable+Applications"/>
 
 <br/>
 
-![Student](https://img.shields.io/badge/Software_Engineer-Aspiring-7C3AED?style=for-the-badge)
-![Backend Developer](https://img.shields.io/badge/Backend-Developer-4F46E5?style=for-the-badge)
-![Location](https://img.shields.io/badge/Mangalore-Karnataka_India-A855F7?style=for-the-badge)
+![Developer](https://img.shields.io/badge/Java-Full_Stack-2563EB?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Manual-Testing-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Hubballi-Karnataka_India-7C3AED?style=for-the-badge)
 
-<a href="https://linkedin.com/in/sudeep-naik17">
+<a href="https://www.linkedin.com/in/vinayak-naik-528087286/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:Sudeepnaik801@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/SudeepNaik17">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=SudeepNaik17&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/SudeepNaik17?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/SudeepNaik17?affiliations=OWNER&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=4F46E5)
 
 </div>
 
@@ -34,44 +32,46 @@
 
 # About Me
 
-I am **Sudeep Naik**, a Backend Developer focused on building scalable, secure, and production-ready web applications.
+Hi, I'm **Vinayak Naik**, an MCA student passionate about **Java Full Stack Development** and **Software Testing**.
 
-My expertise lies in designing RESTful APIs, database architecture, authentication systems, and backend infrastructure using modern JavaScript technologies. I enjoy solving real-world engineering problems and continuously improving my software development skills.
+I enjoy developing scalable web applications using Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and REST APIs. I also have hands-on knowledge of Manual Testing, SDLC, STLC, Jira, Postman, and Agile methodologies.
+
+I'm continuously learning new technologies and looking for opportunities to contribute to real-world software projects.
 
 ### Open To
 
-- Backend Development Roles
-- Software Engineering Internships
-- Full Stack Development Opportunities
-- Open Source Contributions
-- AI & Automation Projects
+- Java Developer Roles
+- Software Engineer Roles
+- Full Stack Developer Roles
+- Manual Testing Roles
+- Paid/Unpaid Internships
 
 ---
 
 # Tech Stack
 
-### Languages
+## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,cpp,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql"/>
 </p>
 
-### Frontend
+## Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
-### Backend & Databases
+## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql"/>
 </p>
 
-### Cloud, DevOps & Tooling
+## Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman"/>
 </p>
 
 ---
@@ -79,122 +79,110 @@ My expertise lies in designing RESTful APIs, database architecture, authenticati
 # Featured Projects
 
 <details>
-<summary><b>Backend Ledger</b></summary>
+<summary><b>Railway Management System</b></summary>
 
 ### Overview
 
-A modern backend accounting and ledger management system built with Node.js, Express.js, MongoDB, and JWT authentication.
+A Railway Management System developed using Java, Spring Boot, MySQL and REST APIs.
 
 | Category | Details |
 |-----------|----------|
-| Stack | Node.js, Express.js, MongoDB |
-| Scale | Multi-user Architecture |
-| Performance | Optimized API Endpoints |
-| Security | JWT Authentication |
-| Impact | Digital Ledger Management |
-| Repository | https://github.com/SudeepNaik17/backend-ledger |
+| Backend | Spring Boot |
+| Database | MySQL |
+| API | REST APIs |
+| Features | Train Management, User Management, Booking System |
+| Authentication | Spring Security |
+| Tools | Eclipse, Postman |
 
 ### Key Features
 
-- Secure User Authentication
-- JWT Authorization
-- Ledger Management
-- Transaction Tracking
-- MongoDB Integration
-- REST API Architecture
-- Scalable Backend Structure
+- User Registration & Login
+- Train Management
+- Ticket Booking
+- Admin Dashboard
+- CRUD Operations
+- RESTful APIs
 
 </details>
 
 ---
 
-# Experience
+<details>
+<summary><b>IPL Team CRUD Application</b></summary>
 
-## Backend Developer Intern — Krytil (Remote)
+### Technologies
 
-**November 2025 – May 2026**
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Postman
 
-Worked as a Backend Developer Intern contributing to backend systems, API development, database integration, and server-side application architecture.
+### Features
 
-### Responsibilities
+- Add Team
+- Update Team
+- Delete Team
+- View Teams
 
-- Developed RESTful APIs using Node.js and Express.js
-- Integrated MongoDB databases
-- Implemented Authentication & Authorization
-- Debugged and optimized backend services
-- Collaborated remotely with development teams
-- Followed industry-standard coding practices
-
-### Skills Used
-
-`Node.js` `Express.js` `MongoDB` `JavaScript` `Git` `REST APIs`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|------------|-----------|
-| Backend Development | Built production-ready ledger management platform |
-| Internship Experience | Successfully completed 6-month Backend Development Internship |
-| Software Engineering | Strong foundation in backend architecture and API development |
-| Continuous Learning | Expanding expertise in AI, Full Stack Development, and Cloud Technologies |
-
-</div>
+</details>
 
 ---
 
-# Coding Profiles
+# Education
 
-<div align="center">
+### Master of Computer Applications (MCA)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](#)
+Sikkim Manipal University
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks)](#)
+### Bachelor of Computer Applications (BCA)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank)](#)
+Institute of Business Management and Research, Hubballi
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](#)
+---
 
-</div>
+# Skills
+
+### Programming
+
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Manual Testing
+
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- UAT
+
+### Tools
+
+- Jira
+- Bugzilla
+- Postman
+- Git
+- GitHub
+- Eclipse
+- VS Code
+
+---
+
+# Certifications
+
+- Java Full Stack Development
+- Manual Testing
+- Accenture Nordics Consultant Job Simulation (Forage)
 
 ---
 
 # GitHub Analytics
-
 <div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SudeepNaik17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SudeepNaik17&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=SudeepNaik17&theme=tokyonight&hide_border=true" alt="Sudeep's GitHub Streak" />
-
-</div>
-
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SudeepNaik17&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SudeepNaik17/SudeepNaik17/output/github-contribution-grid-snake-dark.svg"/>
-
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayak243&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Vinayak243&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -203,25 +191,26 @@ Worked as a Backend Developer Intern contributing to backend systems, API develo
 
 ```yaml
 Learning:
-  - Advanced Backend Development
+  - Spring Boot
+  - Microservices
+  - React
   - System Design
-  - Cloud Computing
-  - AI & Machine Learning
 
 Building:
-  - Scalable Backend Applications
-  - RESTful APIs
-  - Automation Solutions
+  - Java Full Stack Projects
+  - REST APIs
+  - Spring Boot Applications
 
 Exploring:
+  - Cloud Computing
   - DevOps
-  - Microservices
-  - Cloud Infrastructure
+  - AI Tools
 
 Open_To:
-  - Backend Developer Roles
-  - Software Engineering Opportunities
-  - Open Source Collaboration
+  - Software Engineer
+  - Java Developer
+  - Full Stack Developer
+  - Manual Testing
 ```
 
 ---
@@ -230,15 +219,15 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:Sudeepnaik801@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/sudeep-naik17">
+<a href="https://www.linkedin.com/in/vinayak-naik-528087286/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/SudeepNaik17">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -248,8 +237,8 @@ Open_To:
 
 <div align="center">
 
-*"Building scalable software, one commit at a time."*
+*"Code. Learn. Build. Grow."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:4F46E5,100:7C3AED"/>
